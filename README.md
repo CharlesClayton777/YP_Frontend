@@ -1,4 +1,4 @@
-# Youtube_AI_Backend
+# Youtube_AI_Frontend
 
 Youtube Project using Personal youtube API and Gemini API
 
